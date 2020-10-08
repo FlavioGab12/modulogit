@@ -1,5 +1,5 @@
-Meu primeiro sistema com GIT lindão 
+Meu Segundo sistema com GIT lindao 
 
-Fazendo alteração novamente depois de ter voltado com reset
+Diferenca entra arquivos
 
-Alteraçao so pra testar
+c so pra testar
